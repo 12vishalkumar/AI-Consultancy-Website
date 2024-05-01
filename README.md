@@ -2,7 +2,7 @@
 
 <p align="justify"> ✍This project is a React-based web application designed for an AI consultancy firm. It features a comprehensive layout with various sections including a header, main content area, and footer, each styled with modular CSS.</p>
 
-### Click the Go Live button and see the live👉 [Go Live]()
+### Click the Go Live button and see the live👉 [Go Live](https://ai-consultancy-website.netlify.app)
 
 ## Installation
 - Install the required dependencies using npm install.
