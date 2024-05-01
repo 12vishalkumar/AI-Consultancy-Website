@@ -1,0 +1,22 @@
+body {
+    font-family: 'Poppins', Arial, sans-serif !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background: linear-gradient(-35deg, #0a0a0a 0%, #050303);
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    min-height: 100%;
+    overflow-x: hidden;
+}
